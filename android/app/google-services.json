@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "261626233441",
+    "project_id": "neurons-uu8gzh",
+    "storage_bucket": "neurons-uu8gzh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261626233441:android:81f43df5baf33ff14b6020",
+        "android_client_info": {
+          "package_name": "com.mycompany.neurons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261626233441-s653323rf1uvpo0rm9r9hgmke16vl05e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.neurons",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "261626233441-v7ecpfjut7llki1fllj899017me3h0qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-yLC2I88giKMwlqVidN2J3glRcbEyLmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261626233441-v7ecpfjut7llki1fllj899017me3h0qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261626233441-93cf6nthlppnsarnhca4phovc80vcd6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.neurons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
